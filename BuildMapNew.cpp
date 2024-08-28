@@ -39,7 +39,7 @@ void PainelInicial() {
 
     cout << "\n1. Realizar questionário" << endl;
     cout << "2. Último resultado" << endl;
-    cout << "3. Vantagens dos métodos" << endl;
+    cout << "3. Vantagens e Desvantagens dos métodos" << endl;
     cout << "0. Para sair" << endl;
     cout << "\nDigite a sua escolha: ";
     cin >> escolha;
